@@ -1,5 +1,6 @@
 def instantiate_new_array
-  my_array = Array.new
+  Array.new
+
 end
 
 def instantiate_new_array
