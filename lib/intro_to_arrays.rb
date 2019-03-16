@@ -4,5 +4,5 @@ def instantiate_new_array
 end
 
 def instantiate_new_array
-  Array.new = []
+my_array = []
 end
